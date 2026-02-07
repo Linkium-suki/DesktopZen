@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DesktopZen.vcxproj" Id="55681a35-b8a1-496d-9b53-38724cb69089" />
+</Solution>
