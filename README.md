@@ -36,5 +36,5 @@ No external dependencies required.
 ---
 
 <div align="center">
-Made with ❤️ by Linkium[https://github.com/Linkium-suki]
+Made with ❤️ by Linkium(https://github.com/Linkium-suki)
 </div>
